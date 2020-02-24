@@ -5,5 +5,6 @@ public class student
 
     public static void main(String[] args) {
      System.out.print("obj");
+     System.out.print("sss");
     }
 }
