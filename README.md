@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kaalotaibi37/test">
-    <img src="image/logo_transparent.png" alt="Logo" width="80" height="80">
+    <img src="image/logo_transparent.png" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
