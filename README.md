@@ -16,7 +16,7 @@
     <img src="image/logo_transparent.png" alt="Logo" width="160" height="160">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Collage Tracking System</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
