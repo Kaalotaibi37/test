@@ -6,7 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaalotaibi37/test/image/logo_transparent.png" width="500px" />
+  <img src="https://github.com/kaalotaibi37/test/image/logo_transparent.png" width="500px" />
 </p>
 
 <!-- PROJECT LOGO -->
