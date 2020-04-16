@@ -79,10 +79,6 @@
 [forks-url]: https://github.com/kaalotaibi37/test/network/members
 [stars-shield]: https://img.shields.io/github/stars/kaalotaibi37/test.svg?style=flat-square
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[issues-shield]: https://img.shields.io/github/issues/kaalotaibi37/test.svg?style=flat-square
+[issues-url]: https://github.com/kaalotaibi37/test/issues
+
