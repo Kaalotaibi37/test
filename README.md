@@ -4,7 +4,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
+.. |slack| image:: https://cilium.herokuapp.com/badge.svg
+    :alt: Join the Cilium slack channel
+    :target: https://cilium.herokuapp.com/
 
 
 <!-- PROJECT LOGO -->
