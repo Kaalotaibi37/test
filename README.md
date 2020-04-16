@@ -34,7 +34,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
+* [Contribution](#contribution)
 * [Contact](#contact)
 
 
@@ -56,7 +56,7 @@
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribution
 
 
 
