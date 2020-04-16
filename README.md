@@ -1,15 +1,10 @@
 
 [![Build Status](https://travis-ci.org/kaalotaibi37/test.svg?branch=master)](https://travis-ci.org/kaalotaibi37/test) 
+[![Platform][platform-shield]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-|slack|
-
-.. |slack| image:: https://cilium.herokuapp.com/badge.svg
-    :alt: Join the Cilium slack channel
-    :target: https://collagetrackingsystem.slack.com/
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -83,4 +78,5 @@
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kaalotaibi37/test.svg?style=flat-square
 [issues-url]: https://github.com/kaalotaibi37/test/issues
+[platform-shield]:https://img.shields.io/cocoapods/p/Andriod?color=Green&style=flat-square
 
