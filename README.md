@@ -6,7 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 .. |slack| image:: https://cilium.herokuapp.com/badge.svg
     :alt: Join the Cilium slack channel
-    :target: https://cilium.herokuapp.com/
+    :target: https://collagetrackingsystem.slack.com/
 
 
 <!-- PROJECT LOGO -->
