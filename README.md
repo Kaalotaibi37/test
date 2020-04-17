@@ -1,6 +1,5 @@
 
 [![Build Status](https://travis-ci.org/kaalotaibi37/test.svg?branch=master)](https://travis-ci.org/kaalotaibi37/test) 
-[![Platform][platform-shield]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
