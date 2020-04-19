@@ -55,10 +55,10 @@
 
 <!-- CONTRIBUTION -->
 ## Contribution
-| Names                 | Roles               | Contribiute  | Github Account                          |
-| -------------         |:-------------:      |        -----:| :------------:                          |
-| Ahmed Alotaibi        | Project Manager     |              | [AhmedMaj](https://github.com/AhmedMaj) |
-| Mohammed Alnassar     | System Analyst      |              |
+| Names                 | Roles               | Contribiute  |              Github Account               |
+| -------------         |:-------------:      |        -----:|    ---------------------------------      |
+| Ahmed Alotaibi        | Project Manager     |              | [AhmedMaj](https://github.com/AhmedMaj)   |
+| Mohammed Alnassar     | System Analyst      |              | [Mohamadns](https://github.com/Mohamadns) |
 | Fahad Alshaya         | Software Developer  |              |
 | Ibraheem Al-tuwayjiri | Software Desigber   |              |
 | Khalid Alotaibi       | Tester              |              |
