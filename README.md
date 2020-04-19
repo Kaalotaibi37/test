@@ -58,7 +58,7 @@
 | Names                 | Roles               | Contribiute  |              Github Account                     |
 | :-------------:       |:-------------:      |  :---------: |    :---------------------------------:          |
 | Ahmed Alotaibi        | Project Manager     |              | [AhmedMaj](https://github.com/AhmedMaj)         |
-| Mohammed Alnassar     | System Analyst      |              | [Mohamadns](https://github.com/Mohamadns)       | 
+| Mohammed Alnassar     | System Analyst      |              | [Mohamadns](https://github.com/Mohamadns)       |
 | Fahad Alshaya         | Software Developer  |              | [FahadAlshaya](https://github.com/FahadAlshaya) | 
 | Ibraheem Al-tuwayjiri | Software Desigber   |              | [IbrahemSaleh](https://github.com/IbrahemSaleh) | 
 | Khalid Alotaibi       | Tester              |              | [Kaalotaibi37](https://github.com/Kaalotaibi37) | 
