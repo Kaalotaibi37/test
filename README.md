@@ -55,7 +55,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kaalotaibi37/test">
-    <img src="image/timeline.JPG" alt="Roadmap" width="500" height="500">
+    <img src="image/timeline.JPG" alt="Roadmap" width="400" height="400">
   </a>
 
 <!-- CONTRIBUTION -->
