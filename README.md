@@ -55,11 +55,13 @@
 
 <!-- CONTRIBUTION -->
 ## Contribution
-| Names        | Roles           | Contribiute  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Names                 | Roles               | Contribiute  |
+| -------------         |:-------------:      |        -----:|
+| Ahmed Alotaibi        | Project Manager     |              |
+| Fahad Alotaibi        | System Analyst      |              |
+| Ibraheem Al-tuwayjiri | Software Developer  |              |
+| Mohammed Alnasser     | Software Designer   |              |
+| Khalid Alotaibi       | Tester              |              |
 
 
 
