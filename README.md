@@ -64,13 +64,13 @@
 |    Khalid Alotaibi    	|       Tester       	| Phase 0:<br>  Project Organization<br>  ---------------------------------------<br>  Phase 1:<br>  User Characteristics<br>  External Interface Requirements<br>  ---------------------------------------<br>  Phase 2:<br>  State Diagrams<br>  Flowcharts Diagrams<br>  Sequence Diagrams<br>  User Interface Design<br>  ---------------------------------------<br>  ReadME file 	| [Kaalotaibi37](https://github.com/Kaalotaibi37) 	| [kaalotaibi37.io](https://kaalotaibi37.github.io/) 	|
 <!-- CONTACT -->
 ## Contact 
-|          Name         |           Email          |                        Linkedin                          |
-|:---------------------:|:------------------------:|:--------------------------------------------------------:|
-| Ahmed Alotaibi        |                          |                                                          |
-|   Mohammed Alnassar   |                          |                                                          |
-|     Fahad Alshaya     |  <fahadxf1999@gmail.com> |                                                          |
-| Ibraheem Al-tuwayjiri |                          |                                                          |
-|    Khalid Alotaibi    | <kaalotaibi37@gmail.com> | [KhalidAlotaibi37](www.linkedin.com/in/khalidalotaibi37) |
+|          Name         |           Email            |                        Linkedin                          |
+|:---------------------:|:--------------------------:|:--------------------------------------------------------:|
+| Ahmed Alotaibi        |                            |                                                          |
+|   Mohammed Alnassar   |                            |                                                          |
+|     Fahad Alshaya     | <faaalshaya@imamu.edu.sa>  |                                                          |
+| Ibraheem Al-tuwayjiri |                            |                                                          |
+|    Khalid Alotaibi    | <kaalotaibi37@gmail.com>   | [KhalidAlotaibi37](www.linkedin.com/in/khalidalotaibi37) |
 
 
 
