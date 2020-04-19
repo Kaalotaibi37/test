@@ -58,7 +58,7 @@
 | Names                 | Roles               | Contribiute  |
 | -------------         |:-------------:      |        -----:|
 | Ahmed Alotaibi        | Project Manager     |              |
-| Fahad Alotaibi        | System Analyst      |              |
+| Fahad Alshaya         | System Analyst      |              |
 | Ibraheem Al-tuwayjiri | Software Developer  |              |
 | Mohammed Alnasser     | Software Designer   |              |
 | Khalid Alotaibi       | Tester              |              |
