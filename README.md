@@ -70,7 +70,7 @@
 |   Mohammed Alnassar   |                          |                                                       |
 |     Fahad Alshaya     |  <fahadxf1999@gmail.com> |                                                       |
 | Ibraheem Al-tuwayjiri |                          |                                                       |
-|    Khalid Alotaibi    | <kaalotaibi37@gmail.com> | [kaalotaibi37](www.linkedin.com/in/ khalidalotaibi37) |
+|    Khalid Alotaibi    | <kaalotaibi37@gmail.com> | [kaalotaibi37](www.linkedin.com/in/khalidalotaibi37) |
 
 
 
