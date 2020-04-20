@@ -65,12 +65,12 @@ Collage Tracking System (CTS) is a system the will help students, faculty staff 
 |    Khalid Alotaibi    	|       Tester       	| Phase 0:<br>  Project Organization<br>  Organizational Structure<br>  Roles And Responsibilities<br>  ----------------------------------------<br>  Phase 1:<br>  User Characteristics<br>  External Interface Requirements<br>  User Interfaces<br>  Hardware Interfaces<br>  Software Interfaces<br>  Communication Interfaces<br>  ----------------------------------------<br>  Phase 2:<br>  State Diagrams<br>  Flowcharts Diagrams<br>  Sequence Diagrams<br>  User Interface Design<br>  ----------------------------------------<br>  Phase 3:<br>   Coding<br>  ----------------------------------------<br>  ReadMe File 	| [Kaalotaibi37](https://github.com/Kaalotaibi37) 	| [kaalotaibi37.io](https://kaalotaibi37.github.io/) 	|
 <!-- CONTACT -->
 ## Contact 
-|          Name         |           Email                 |                        Linkedin                          |
-|:---------------------:|:-------------------------------:|:--------------------------------------------------------:|
-| Ahmed Alotaibi        | <ahmhalotaibi@sm.imamu.edu.sa>  |                                                          |
-|   Mohammed Alnassar   | <mkialnasser50@sm.imamu.edu.sa> |                                                          |
-|     Fahad Alshaya     | <faaalshaya@imamu.edu.sa>       |                                                          |
-| Ibraheem Al-tuwayjiri | <ialtuwayjiri@hotmail.com>      |                                                          |
+|          Name         |           Email                 |                        Linkedin                              |
+|:---------------------:|:-------------------------------:|:------------------------------------------------------------:|
+| Ahmed Alotaibi        | <ahmhalotaibi@sm.imamu.edu.sa>  |                           ---                                |
+|   Mohammed Alnassar   | <mkialnasser50@sm.imamu.edu.sa> |                           ---                                |
+|     Fahad Alshaya     | <faaalshaya@imamu.edu.sa>       |                           ---                                |
+| Ibraheem Al-tuwayjiri | <ialtuwayjiri@hotmail.com>      |                           ---                                |
 |    Khalid Alotaibi    | <kaalotaibi37@gmail.com>        | [KhalidAlotaibi37](https://linkedin.com/in/khalidalotaibi37) |
 
 
