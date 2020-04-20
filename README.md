@@ -70,7 +70,7 @@
 |   Mohammed Alnassar   | <mkialnasser50@sm.imamu.edu.sa> |                                                          |
 |     Fahad Alshaya     | <faaalshaya@imamu.edu.sa>       |                                                          |
 | Ibraheem Al-tuwayjiri | <ialtuwayjiri@hotmail.com>      |                                                          |
-|    Khalid Alotaibi    | <kaalotaibi37@gmail.com>        | [KhalidAlotaibi37](www.linkedin.com/in/khalidalotaibi37) |
+|    Khalid Alotaibi    | <kaalotaibi37@gmail.com>        | [KhalidAlotaibi37](https://linkedin.com/in/khalidalotaibi37) |
 
 
 
