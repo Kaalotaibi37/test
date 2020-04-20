@@ -44,8 +44,10 @@ Collage Tracking System (CTS) is a system the will help students, faculty staff 
 #### *This project done by us as part of Software Engineering course (CS370)  -  Superivised by [Dr.Sultan Alqahtani](https://isultane.github.io/)* ####
 
 
+<!-- Bulit with -->
 ### Built With
 [Apache NetBeans](https://netbeans.apache.org/)
+<!-- Design Tools -->
 ### Design Tools
 [WireframePro](https://www.mockflow.com/)
 
@@ -80,8 +82,7 @@ Collage Tracking System (CTS) is a system the will help students, faculty staff 
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- MARKDOWN LINKS -->
 [contributors-shield]: https://img.shields.io/github/contributors/kaalotaibi37/test.svg?style=flat-square
 [contributors-url]: https://github.com/Kaalotaibi37/test/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/kaalotaibi37/test.svg?style=flat-square
