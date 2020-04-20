@@ -40,7 +40,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+Collage Tracking System (CTS) is a system the will help students, faculty staff and visitors to direct thim to a specif classroom or office and direct thim by using a map. CTS will provide information about the classroom such as if it's avaliable or not. For faculty staff offices, it will provide the faculty staff information and their schedule. CTS will provide for the faculty staff to add and remove exams. For student, they will be able to see the exams and search for it. CTS will provide news. CTS can also provide the studnets and faculty staff to add or remove classes to the schedule.
+#### *This project done by us as part of Software Engineering course (CS370)* ####
 
 
 ### Built With
