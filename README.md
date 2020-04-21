@@ -1,5 +1,3 @@
-
-[![Build Status](https://travis-ci.org/kaalotaibi37/test.svg?branch=master)](https://travis-ci.org/kaalotaibi37/test) 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -41,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Collage Tracking System (CTS) is a system the will help students, faculty staff and visitors to direct them to a specif classroom or office and direct them by using a map. CTS will provide information about the classroom such as if it's available or not. For faculty staff offices, it will provide the faculty staff information and their schedule. CTS will provide for the faculty staff to add and remove exams. For students, they will be able to see the exams and search for it. CTS will provide news. CTS can also provide the students and faculty staff to add or remove classes to the schedule.
-#### *This project is done by us as part of the Software Engineering course  (CS370)  -  supervised by [Dr.Sultan Alqahtani](https://isultane.github.io/)* ####
+#### *This project is done by us as part of the Software Engineering course  (CS310)  -  supervised by [Dr.Sultan Alqahtani](https://isultane.github.io/)* ####
 
 
 <!-- Bulit with -->
@@ -91,6 +89,5 @@ Collage Tracking System (CTS) is a system the will help students, faculty staff 
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kaalotaibi37/test.svg?style=flat-square
 [issues-url]: https://github.com/kaalotaibi37/test/issues
-[platform-shield]:https://img.shields.io/cocoapods/p/Andriod?color=Green&style=flat-square
 [AhmedMaj.io]:https://ahmedmaj.github.io/
 
